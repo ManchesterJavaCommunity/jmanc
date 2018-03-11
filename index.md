@@ -1,12 +1,10 @@
-We are delighted to be hosting the first JManc Unconference on 23rd June 2018 at Auto Trader.
 
 ## About JManc Unconference
-
-This is the first ‘unconference’ run by the Manchester Java Community. We hope there to be many more to come.
+The Manchester Java Community  are delighted to be hosting the first JManc Unconference on 23rd June 2018. We hope this will be the first of many.
 
 The idea is that Java developers of all skill levels will to come together for a full day of discussions, sharing experiences, learning and spending time with our peers in the industry.
 
-JManc is inspired by JCrete®, arguably the best Java unconference in the world.
+JManc is inspired the [LJC Unconference](http://unconf.londonjavacommunity.co.uk/) and [JCrete®](http://www.jcrete.org/), arguably the best Java unconference in the world.
 
 ## What is an unconference?
 
