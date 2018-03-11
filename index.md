@@ -1,6 +1,6 @@
 
-## About JManc Unconference
-The Manchester Java Community  are delighted to be hosting the first JManc Unconference on 23rd June 2018. We hope this will be the first of many.
+## About JManc
+The Manchester Java Community are delighted to be hosting the first JManc unconference on 23rd June 2018. We hope this will be the first of many.
 
 The idea is that Java developers of all skill levels will to come together for a full day of discussions, sharing experiences, learning and spending time with our peers in the industry.
 
@@ -12,9 +12,9 @@ An unconference is a loosely structured, participant-driven meeting. It does not
 
 ## Unconference organisers
 
- * Alison McGreavy
- * Debbie Roycroft
- * Nick Ebbitt
+ * Alison McGreavy (Zuhlke)
+ * Debbie Roycroft (Coop Digital)
+ * Nick Ebbitt (Auto Trader)
 
 ## The schedule
 
@@ -24,7 +24,7 @@ An unconference is a loosely structured, participant-driven meeting. It does not
 
 ### Cost
 
-We are providing the unconference to you free of charge. Please register for your free ticket [here](link).
+We are providing the unconference to you free of charge. You can fidn more info about how to register for your free ticket [here](/tickets).
 
 All we ask is that if you register for a ticket you do indeed plan to attend. We are aware circumstances change so if you have registered but can no longer make it then please let us know.
 
