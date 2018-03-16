@@ -24,7 +24,7 @@ An unconference is a loosely structured, participant-driven meeting. It does not
 
 ### Cost
 
-We are providing the unconference to you free of charge. You can fidn more info about how to register for your free ticket [here](/tickets).
+We are providing the unconference to you free of charge. You can find more info about how to register for your free ticket [here](/tickets).
 
 All we ask is that if you register for a ticket you do indeed plan to attend. We are aware circumstances change so if you have registered but can no longer make it then please let us know.
 
