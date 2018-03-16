@@ -7,3 +7,11 @@ img {
     height: auto;
     max-height: 100%;
 }
+.page-header {
+    background: linear-gradient(to bottom, #fffc00, #ffffff); 
+}
+.btn {
+    color: rgba(0, 0, 0, 0.7);
+    border-color: rgba(0, 0, 0, 0.2);
+}
+.btn:hover { color: rgba(255, 255, 255, 0.8); text-decoration: none; background-color: rgba(0, 0, 0, 0.5); border-color: rgba(255, 255, 255, 0.3); }
