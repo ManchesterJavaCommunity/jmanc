@@ -11,23 +11,12 @@
     <link rel="stylesheet" href="https://cdn.rawgit.com/balzss/luxbar/ae5835e2/build/luxbar.min.css">
     <base href="{{ site.baseurl }}">
   </head>
-  <body>
-    <header id="luxbar" class="luxbar-fixed">
-     <input type="checkbox" class="luxbar-checkbox" id="luxbar-checkbox"/>
-      <div class="luxbar-menu luxbar-menu-left luxbar-menu-material-cyan">
-        <ul class="luxbar-navigation">
-            <li class="luxbar-header">
-		    <a href="{{ site.baseurl }}/" class="luxbar-brand">JManc</a>
-                <label class="luxbar-hamburger luxbar-hamburger-doublespin"
-                id="luxbar-hamburger" for="luxbar-checkbox"> <span></span> </label>
-            </li>
-	    <li class="luxbar-item"><a href="{{ site.baseurl }}/tickets">Tickets</a></li>
-	    <li class="luxbar-item"><a href="{{ site.baseurl }}/code-of-conduct">Code of Conduct</a></li>
-        </ul>
-      </div>
-     </header>
-    <section class="page-header">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+    <section class="page-header"> 
+      <img src="LOGO-WHITEBG-nodate.png" alt="JMANC LOGO">
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <a href="{{ site.baseurl }}/" class="btn">Main</a>
+      <a href="{{ site.baseurl }}/tickets" class="btn">Tickets</a>
+      <a href="{{ site.baseurl }}/code-of-conduct" class="btn">Code of conduct</a>
     </section>
 
     <section class="main-content">
