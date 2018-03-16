@@ -1,3 +1,5 @@
-name: JManc Unconference
+theme: jekyll-theme-cayman
+name: JManc
 markdown: kramdown
-theme: jekyll-theme-hacker
+title: JManc
+baseurl: /jmanc
