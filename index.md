@@ -18,7 +18,7 @@ An unconference is a loosely structured, participant-driven meeting. It does not
 
 ## The schedule
 
-...
+{% include schedule.html %}
 
 ## What to expect
 
