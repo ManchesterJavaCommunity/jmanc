@@ -1,5 +1,6 @@
 
 ## About JManc
+
 The Manchester Java Community are delighted to be hosting the first JManc unconference on 30th June 2018. We hope this will be the first of many.
 
 The idea is that Java developers of all skill levels will to come together for a full day of discussions, sharing experiences, learning and spending time with our peers in the industry.
