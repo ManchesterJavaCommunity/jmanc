@@ -46,7 +46,9 @@ All we ask is that if you register for a ticket you do indeed plan to attend. We
 
 ### Location
 
-Our wonderful sponsor, Auto Trader, have generously offered the event space in their wonderful offices at First Street to host our unconference. It’s a modern space and has many rooms and corners in which we can relax and have meaningful discussions and conversations. For more information about the location, please see the address section below.
+Auto Trader have generously offered the event space in their wonderful offices at First Street to host our unconference. It’s a modern space and has many rooms and corners in which we can relax and have meaningful discussions and conversations. 
+
+For more information about the location, please see the [contact](/contact) page.
 
 ### Food & Drink
 
