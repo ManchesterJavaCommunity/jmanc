@@ -36,12 +36,6 @@ Open Space Technology has only one “law”, **the law of two feet**:
 
 i.e. don’t waste time, move around, cross-pollinate groups, and be open to chance encounters which often bring out the most creative of discussions.
 
-## Unconference organisers
-
- * Alison McGreavy (Z&uuml;hlke)
- * Debbie Roycroft (Coop Digital)
- * Nick Ebbitt (Auto Trader)
-
 ## What to expect
 
 ### Cost
