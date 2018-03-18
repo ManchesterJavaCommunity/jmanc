@@ -1,11 +1,13 @@
 
 ## About JManc
 
-The Manchester Java Community are delighted to be hosting the first JManc unconference on 30th June 2018. We hope this will be the first of many.
+The Manchester Java Community are delighted to be hosting the first JManc unconference on **30th June 2018**. 
 
 The idea is that Java developers of all skill levels will to come together for a full day of discussions, sharing experiences, learning and spending time with our peers in the industry.
 
 JManc is inspired the [LJC Unconference](http://unconf.londonjavacommunity.co.uk/) and [JCrete®](http://www.jcrete.org/), arguably the best Java unconference in the world.
+
+We hope this will be the first of many.
 
 ## What is an unconference?
 
@@ -13,7 +15,7 @@ An unconference is a loosely structured, participant-driven meeting. It does not
 
 ## Some simple rules
 
-Our unconference will be loosely based on the [Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology) format. This means that some simple rules apply:
+The format for JManc is loosely based on the [Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology) format. This means that some simple rules apply:
 
 1. **Whoever shows up are the right people**
 …reminds participants that they don’t need the CEO and 100 people to get something done, you need people who care. And, absent the direction or control exerted in a traditional meeting, that’s who shows up in the various breakout sessions of an Open Space meeting.
@@ -26,6 +28,13 @@ Our unconference will be loosely based on the [Open Space Technology](https://en
 5. **When it’s over, it’s over**
 …reminds participants that we never know how long it will take to resolve an issue, once raised, but that whenever the issue or work or conversation is finished, move on to the next thing. Don’t keep rehashing just because there’s 30 minutes left in the session. Do the work, not the time.
 
+### The law of two feet
+
+Open Space Technology has only one “law”, **the law of two feet**:
+
+> If at any time you find yourself in any situation where you are neither learning nor contributing: use your two feet and go someplace else.
+
+i.e. don’t waste time, move around, cross-pollinate groups, and be open to chance encounters which often bring out the most creative of discussions.
 
 ## Unconference organisers
 
