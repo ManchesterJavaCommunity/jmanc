@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+// Header gradient
 img {
     max-width: 100%;
     height: auto;
@@ -10,11 +11,15 @@ img {
 .page-header {
     background: linear-gradient(to bottom, #fffc00, #ffffff); 
 }
+
+// Header button
 .btn {
     color: rgba(0, 0, 0, 0.7);
     border-color: rgba(0, 0, 0, 0.2);
 }
 .btn:hover { color: rgba(255, 255, 255, 0.8); text-decoration: none; background-color: rgba(0, 0, 0, 0.5); border-color: rgba(255, 255, 255, 0.3); }
+
+// Timeline
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,900);
 
 body{
@@ -333,3 +338,4 @@ header h1{
     text-align: left;
   }
 }
+
