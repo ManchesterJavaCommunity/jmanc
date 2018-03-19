@@ -1,5 +1,4 @@
-
-## About JManc
+# About JManc
 
 The Manchester Java Community are delighted to be hosting the first JManc unconference on **30th June 2018**. 
 
@@ -9,7 +8,7 @@ JManc is inspired the [LJC Unconference](http://unconf.londonjavacommunity.co.uk
 
 We hope this will be the first of many.
 
-## What is an unconference?
+# What is an unconference?
 
 An unconference is a loosely structured, participant-driven meeting. It does not follow the traditional conference program structure. You decide what you want to talk about and which topics you want to discuss. The unconference starts with an empty schedule. No topics are mandated, no separations are made between “speakers” and “audience”. All participants work out a schedule by suggesting, planning, holding and evaluating sessions, collaboratively.
 
@@ -36,31 +35,31 @@ Open Space Technology has only one “law”, **the law of two feet**:
 
 i.e. don’t waste time, move around, cross-pollinate groups, and be open to chance encounters which often bring out the most creative of discussions.
 
-## What to expect
+# What to expect
 
-### Cost
+## Cost
 
 We are providing the unconference to you free of charge. You can find more info about how to register for your free ticket [here](/tickets).
 
 All we ask is that if you register for a ticket you do indeed plan to attend. We are aware circumstances change so if you have registered but can no longer make it then please let us know.
 
-### Location
+## Location
 
 Auto Trader have generously offered the event space in their wonderful offices at First Street to host our unconference. It’s a modern space and has many rooms and corners in which we can relax and have meaningful discussions and conversations. 
 
 For more information about the location, please see the [contact](/contact) page.
 
-### Food & Drink
+## Food & Drink
 
 Our amazing hosts, Auto Trader, will provide pastries when you arrive and lunch, as well as refreshments through the day.
 
 Please let us know if you have any dietary requirements we need to cater for.
 
-### Sessions
+## Sessions
 
 Unlike regular presentations, you won’t need slides, a laptop, or even a plan! It’s good for the person who submitted the session to spend the first few minutes talking about why they picked the topic and what they want to discuss. After that, everyone is a participant. You’re the speaker and the audience as we engage in meaningful discussion with the group. Being a part of the session is the best way to get the most out of your experience at the unconference.
 
-### Submitting topics
+## Submitting topics
 
 Anyone can submit a session. If you do, you’re not expected to stand up for 35 minutes and talk to a crowd. That’s more like what you see at traditional conferences. Think about this more as you moderating a topic which others are keen to express an opinion or learn more about.
 
