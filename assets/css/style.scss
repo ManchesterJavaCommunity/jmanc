@@ -10,14 +10,88 @@ img {
 }
 .page-header {
     background: linear-gradient(to bottom, #fffc00, #ffffff); 
+    padding: 4vh 5vw;
+    text-decoration: none;
+
+    > a {
+      display: block;
+      margin-bottom: 3vh;
+    }
+}
+
+.primary-nav {
+  @media (max-width: 42em) {
+    > .btn {
+      display: none;
+      margin: 0 auto .5em;
+      max-width: 30em;
+    }
+
+    input[type=checkbox] {
+      display: none;
+      -webkit-appearance: none;
+    }
+
+    input[type=checkbox]:checked ~ .btn {
+      display: block;
+    }
+  }
+
+  @media (min-width: 42em) {
+    &__btn {
+      display: none;
+    }
+  }
+}
+
+.show-menu {
+  background: #333;
+  display: block;
+  max-width: 27em;
+  margin: 0 auto .5em;
+  padding: .3em;
+
+  @media (min-width: 42em) {
+    display: none;
+
+    & + input[type=checkbox] {
+      display: none;
+    }
+  }
+}
+
+.main-content {
+  padding-top: 2vh;
 }
 
 // Header button
 .btn {
     color: rgba(0, 0, 0, 0.7);
     border-color: rgba(0, 0, 0, 0.2);
+
+    &--active {
+      background-color: darkgrey;
+      border: inherit;
+      color: white;
+
+      &:focus,
+      &:hover {
+        background-color: darkgrey;
+        border: inherit;
+        color: white;
+      }
+    }
 }
+.btn:focus,
 .btn:hover { color: rgba(255, 255, 255, 0.8); text-decoration: none; background-color: rgba(0, 0, 0, 0.5); border-color: rgba(255, 255, 255, 0.3); }
+
+
+.venue-map {
+  height: 70vh;
+}
+
+
+
 
 // Timeline
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,900);

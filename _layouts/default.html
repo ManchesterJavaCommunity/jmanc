@@ -14,14 +14,43 @@
   </head>
     <section class="page-header"> 
       <a href="{{ site.baseurl }}/">
-	    <img src="{{ site.baseurl }}/assets/images/LOGO-WHITEBG.png" alt="JMANC LOGO">
+	     <img src="{{ site.baseurl }}/assets/images/LOGO-WHITEBG.png" alt="JMANC LOGO">
       </a>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      <a href="{{ site.baseurl }}/" class="btn">About</a>
-      <a href="{{ site.baseurl }}/schedule" class="btn">Schedule</a>
-      <a href="{{ site.baseurl }}/tickets" class="btn">Tickets</a>
-      <a href="{{ site.baseurl }}/code-of-conduct" class="btn">Code of conduct</a>
-      <a href="{{ site.baseurl }}/contact" class="btn">Contact</a>
+
+      <nav class="primary-nav" id="nav">
+        <label for="show-menu" class="show-menu">Show/hide Menu</label>
+        <input type="checkbox" id="show-menu" role="button">
+      {% if page.url != '/' %}
+        <a href="{{ site.baseurl }}/" class="btn">About</a>
+      {% else %}
+        <span class="btn btn--active">About</span>
+      {% endif %}
+
+      {% if page.url != '/schedule.html' %}
+        <a href="{{ site.baseurl }}/schedule" class="btn">Schedule</a>
+      {% else %}
+        <span class="btn btn--active">Schedule</span>
+      {% endif %}
+
+      {% if page.url != '/tickets.html' %}
+        <a href="{{ site.baseurl }}/tickets" class="btn">Tickets</a>
+      {% else %}
+        <span class="btn btn--active">Tickets</span>
+      {% endif %}
+
+      {% if page.url != '/code-of-conduct.html' %}
+        <a href="{{ site.baseurl }}/code-of-conduct" class="btn">Code of conduct</a>
+      {% else %}
+        <span class="btn btn--active">Code of conduct</span>
+      {% endif %}
+
+      {% if page.url != '/contact.html' %}
+        <a href="{{ site.baseurl }}/contact" class="btn">Contact</a>
+      {% else %}
+        <span class="btn btn--active">Contact</span>
+      {% endif %}
+      </nav>
+
     </section>
     <section class="main-content">
       {{ content }}
