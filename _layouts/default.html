@@ -14,14 +14,52 @@
   </head>
     <section class="page-header"> 
       <a href="{{ site.baseurl }}/">
-	    <img src="{{ site.baseurl }}/assets/images/LOGO-WHITEBG.png" alt="JMANC LOGO">
+	     <img src="{{ site.baseurl }}/assets/images/LOGO-WHITEBG.png" alt="JMANC LOGO">
       </a>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      <a href="{{ site.baseurl }}/" class="btn">About</a>
-      <a href="{{ site.baseurl }}/schedule" class="btn">Schedule</a>
-      <a href="{{ site.baseurl }}/tickets" class="btn">Tickets</a>
-      <a href="{{ site.baseurl }}/code-of-conduct" class="btn">Code of conduct</a>
-      <a href="{{ site.baseurl }}/contact" class="btn">Contact</a>
+
+      <nav class="primary-nav">
+      {% if page.url != '/' %}
+        <a href="{{ site.baseurl }}/" class="btn">About</a>
+      {% else %}
+        <span class="btn btn--active">About</span>
+      {% endif %}
+
+      {% if page.url != '/schedule.html' %}
+        <a href="{{ site.baseurl }}/schedule" class="btn">Schedule</a>
+      {% else %}
+        <span class="btn btn--active">Schedule</span>
+      {% endif %}
+
+      {% if page.url != '/tickets.html' %}
+        <a href="{{ site.baseurl }}/tickets" class="btn">Tickets</a>
+      {% else %}
+        <span class="btn btn--active">Tickets</span>
+      {% endif %}
+
+      {% if page.url != '/code-of-conduct.html' %}
+        <a href="{{ site.baseurl }}/code-of-conduct" class="btn">Code of conduct</a>
+      {% else %}
+        <span class="btn btn--active">Code of conduct</span>
+      {% endif %}
+
+      {% if page.url != '/contact.html' %}
+        <a href="{{ site.baseurl }}/contact" class="btn">Contact</a>
+      {% else %}
+        <span class="btn btn--active">Contact</span>
+      {% endif %}
+      </nav>
+
+
+
+            <li class="nav__item hlist__item{% if section[1] == link_section[1] %} nav__item--active{% endif %}">
+              {% if page.url != navitem.link %}
+              <a href="{{ site.baseurl }}{{ navitem.link }}" class="nav__link">{{ navitem.title }}</a>
+              {% else %}
+              <span class="nav__link">{{ navitem.title }}</span>
+              {% endif %}
+
+
+
     </section>
     <section class="main-content">
       {{ content }}
