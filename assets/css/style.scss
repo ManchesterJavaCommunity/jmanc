@@ -10,9 +10,17 @@ img {
 }
 .page-header {
     background: linear-gradient(to bottom, #fffc00, #ffffff); 
-    margin-bottom: 3vh;
-    padding: 5vh 5vw;
+    padding: 4vh 5vw;
     text-decoration: none;
+
+    > a {
+      display: block;
+      margin-bottom: 3vh;
+    }
+}
+
+.main-content {
+  padding-top: 2vh;
 }
 
 // Header button
@@ -27,6 +35,14 @@ img {
     }
 }
 .btn:hover { color: rgba(255, 255, 255, 0.8); text-decoration: none; background-color: rgba(0, 0, 0, 0.5); border-color: rgba(255, 255, 255, 0.3); }
+
+
+.venue-map {
+  height: 70vh;
+}
+
+
+
 
 // Timeline
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,900);

@@ -49,17 +49,6 @@
       {% endif %}
       </nav>
 
-
-
-            <li class="nav__item hlist__item{% if section[1] == link_section[1] %} nav__item--active{% endif %}">
-              {% if page.url != navitem.link %}
-              <a href="{{ site.baseurl }}{{ navitem.link }}" class="nav__link">{{ navitem.title }}</a>
-              {% else %}
-              <span class="nav__link">{{ navitem.title }}</span>
-              {% endif %}
-
-
-
     </section>
     <section class="main-content">
       {{ content }}
