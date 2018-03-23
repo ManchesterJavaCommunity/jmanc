@@ -1,4 +1,4 @@
 # Tickets
 
-Coming soon...
+{% include eventbrite.html %} 
 
