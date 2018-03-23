@@ -9,18 +9,48 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico">
     <base href="{{ site.baseurl }}">
   </head>
     <section class="page-header"> 
       <a href="{{ site.baseurl }}/">
-	    <img src="{{ site.baseurl }}/assets/images/LOGO-WHITEBG.png" alt="JMANC LOGO">
+	     <img src="{{ site.baseurl }}/assets/images/LOGO-WHITEBG.png" alt="JMANC LOGO">
       </a>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      <a href="{{ site.baseurl }}/" class="btn">About</a>
-      <a href="{{ site.baseurl }}/schedule" class="btn">Schedule</a>
-      <a href="{{ site.baseurl }}/tickets" class="btn">Tickets</a>
-      <a href="{{ site.baseurl }}/code-of-conduct" class="btn">Code of conduct</a>
-      <a href="{{ site.baseurl }}/contact" class="btn">Contact</a>
+
+      <nav class="primary-nav" id="nav">
+        <label for="show-menu" class="show-menu">Show/hide Menu</label>
+        <input type="checkbox" id="show-menu" role="button">
+      {% if page.url != '/' %}
+        <a href="{{ site.baseurl }}/" class="btn">About</a>
+      {% else %}
+        <span class="btn btn--active">About</span>
+      {% endif %}
+
+      {% if page.url != '/schedule.html' %}
+        <a href="{{ site.baseurl }}/schedule" class="btn">Schedule</a>
+      {% else %}
+        <span class="btn btn--active">Schedule</span>
+      {% endif %}
+
+      {% if page.url != '/tickets.html' %}
+        <a href="{{ site.baseurl }}/tickets" class="btn">Tickets</a>
+      {% else %}
+        <span class="btn btn--active">Tickets</span>
+      {% endif %}
+
+      {% if page.url != '/code-of-conduct.html' %}
+        <a href="{{ site.baseurl }}/code-of-conduct" class="btn">Code of conduct</a>
+      {% else %}
+        <span class="btn btn--active">Code of conduct</span>
+      {% endif %}
+
+      {% if page.url != '/contact.html' %}
+        <a href="{{ site.baseurl }}/contact" class="btn">Contact</a>
+      {% else %}
+        <span class="btn btn--active">Contact</span>
+      {% endif %}
+      </nav>
+
     </section>
     <section class="main-content">
       {{ content }}
