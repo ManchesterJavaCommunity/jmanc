@@ -10,8 +10,7 @@ We hope this will be the first of many.
 
  
 
-***
-
+---
 
 ## What is an unconference?
 
@@ -40,15 +39,13 @@ Open Space Technology has only one “law”, **the law of two feet**:
 
 i.e. don’t waste time, move around, cross-pollinate groups, and be open to chance encounters which often bring out the most creative of discussions.
 
-
-***
-
+---
 
 ## What to expect
 
 ### Cost
 
-We are providing the unconference to you free of charge. You can find more info about how to register for your free ticket [here](/tickets).
+We are providing the unconference to you free of charge. You can find more info about how to register for your free ticket [here]({{ site.baseurl }}/tickets).
 
 All we ask is that if you register for a ticket you do indeed plan to attend. We are aware circumstances change so if you have registered but can no longer make it then please let us know.
 
@@ -56,7 +53,7 @@ All we ask is that if you register for a ticket you do indeed plan to attend. We
 
 Auto Trader have generously offered the event space in their wonderful offices at First Street to host our unconference. It’s a modern space and has many rooms and corners in which we can relax and have meaningful discussions and conversations. 
 
-For more information about the location, please see the [contact](/contact) page.
+For more information about the location, please see the [contact]({{ site.baseurl }}/contact) page.
 
 ### Food & Drink
 
