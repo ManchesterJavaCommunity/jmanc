@@ -1,6 +1,6 @@
 # Contact
 
-JManc is organised by Alison McGreavy (Z&uuml;hlke), Debbie Roycroft (Co-op Digital) & Nick Ebbitt (Auto Trader UK). 
+JManc is organised by Alison McGreavy, Debbie Roycroft & Nick Ebbitt. 
 
 You can get in touch with us in the following ways:
 
