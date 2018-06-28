@@ -38,6 +38,12 @@
         <span class="btn btn--active">Tickets</span>
       {% endif %}
 
+      {% if page.url != '/sponsors.html' %}
+        <a href="{{ site.baseurl }}/sponsors" class="btn">Sponsors</a>
+      {% else %}
+        <span class="btn btn--active">Sponsors</span>
+      {% endif %}
+
       {% if page.url != '/code-of-conduct.html' %}
         <a href="{{ site.baseurl }}/code-of-conduct" class="btn">Code of conduct</a>
       {% else %}
@@ -49,6 +55,7 @@
       {% else %}
         <span class="btn btn--active">Contact</span>
       {% endif %}
+
       </nav>
 
     </section>
