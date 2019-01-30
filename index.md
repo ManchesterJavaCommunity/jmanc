@@ -1,14 +1,11 @@
 # About JManc
 
-The Manchester Java Community are delighted to be hosting the first JManc unconference on **Saturday 30th June 2018**. 
+Following the success of JManc 2018, the Manchester Java Community are delighted to be hosting the second JManc unconference on **Saturday 29th June 2019**. 
 
 The idea is that Java developers of all skill levels will to come together for a full day of discussions, sharing experiences, learning and spending time with our peers in the industry.
 
 JManc is inspired the [LJC Unconference](http://unconf.londonjavacommunity.co.uk/) and [JCrete®](http://www.jcrete.org/), arguably the best Java unconference in the world.
 
-We hope this will be the first of many.
-
- 
 
 ---
 
@@ -57,7 +54,7 @@ For more information about the location, please see the [contact](contact.md) pa
 
 ### Food & Drink
 
-Our amazing hosts, Auto Trader, will provide pastries when you arrive and lunch, as well as refreshments through the day.
+Our amazing hosts, [Auto Trader](https://careers.autotrader.co.uk/), will provide pastries when you arrive and lunch, as well as refreshments through the day.
 
 Please let us know if you have any dietary requirements we need to cater for.
 
