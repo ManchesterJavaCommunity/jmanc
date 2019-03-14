@@ -1,6 +1,6 @@
 # Contact
 
-JManc is organised by Alison McGreavy, Debbie Roycroft & Nick Ebbitt. 
+JManc is organised by the [Manchester Java Community](https://www.meetup.com/ManchesterUK-Java-Community/). 
 
 You can get in touch with us in the following ways:
 
