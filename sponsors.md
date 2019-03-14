@@ -1,4 +1,4 @@
-# Massive thanks to our sponsors!
+# We'd like to say a huge thanks to our sponsors!
 
 
 <div align="center">

@@ -1,4 +1,2 @@
-# Schedule
-
 {% include schedule.html %}
 
