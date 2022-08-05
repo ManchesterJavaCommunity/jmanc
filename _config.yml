@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 name: JManc
 markdown: kramdown
 title: JManc
-baseurl: /jmanc
+baseurl: /
 google_analytics: UA-116314007-1
