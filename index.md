@@ -1,4 +1,4 @@
-Following the success of JManc 2018, the Manchester Java Community are delighted to be hosting the second JManc unconference on **Saturday 29th June 2019**. 
+Following the success of JManc in 2018 & 2019, the Manchester Java Community are delighted to be hosting the third JManc unconference on **Saturday 22nd October 2022**. 
 
 The idea is that Java developers of all skill levels will to come together for a full day of discussions, sharing experiences, learning and spending time with our peers in the industry.
 
@@ -40,19 +40,21 @@ i.e. don’t waste time, move around, cross-pollinate groups, and be open to cha
 
 ### Cost
 
-We are providing the unconference to you free of charge. You can find more info about how to register for your free ticket [here](tickets.md).
+The price of a ticket to JManc 2022 is £20, however all proceeds generated from the tickets will be donated to our nominated charity, which is **<insert_chartity_here>**.
 
-All we ask is that if you register for a ticket you do indeed plan to attend. We are aware circumstances change so if you have registered but can no longer make it then please let us know.
+You can find more info about how to purchase a ticket [here](tickets.md).
 
 ### Location
 
-Auto Trader have generously offered the event space in their wonderful offices at First Street to host our unconference. It’s a modern space and has many rooms and corners in which we can relax and have meaningful discussions and conversations. 
+This year's event will be held at The Stables @ Bonded Warehouse on Lower Byrom Street next to the Science and Industry Museum, a really unique space in Manchester city centre.
+
+The location is thanks to [ECOM Recruitment](http://www.ecomrecruitment.com/) who have generously offered to cover the cost of the venue for the day.
 
 For more information about the location, please see the [contact](contact.md) page.
 
 ### Food & Drink
 
-Our amazing hosts, [Auto Trader](https://careers.autotrader.co.uk/), will provide pastries when you arrive and lunch, as well as refreshments through the day.
+Our amazing sponsors, [ECOM Recruitment](http://www.ecomrecruitment.com/), have arranged for us to be provided with lunch as well as refreshments throughout the day.
 
 Please let us know if you have any dietary requirements we need to cater for.
 
