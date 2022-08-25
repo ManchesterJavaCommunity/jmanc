@@ -6,10 +6,6 @@ You can get in touch with us in the following ways:
 
 ## The venue
 
-Auto Trader UK,
-1, Tony Wilson Place, 
-First St, 
-Manchester 
-M15 4FN
+The Stables @ Bonded Warehouse, Lower Byrom Street, Manchester, M3 4AP
 
 {% include venue-location.html %}
