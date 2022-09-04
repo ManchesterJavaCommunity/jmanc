@@ -9,7 +9,7 @@ img {
     max-height: 100%;
 }
 .page-header {
-    background: linear-gradient(to bottom, #fffc00, #ffffff); 
+    background: linear-gradient(to bottom, #fffc00, #ffffff);
     padding: 4vh 5vw;
     text-decoration: none;
 
@@ -45,7 +45,7 @@ img {
 }
 
 .show-menu {
-  background: #333;
+  background: darkgrey;
   display: block;
   max-width: 27em;
   margin: 0 auto .5em;
@@ -58,6 +58,10 @@ img {
       display: none;
     }
   }
+}
+
+.show-menu img {
+    vertical-align: middle;
 }
 
 .main-content {
