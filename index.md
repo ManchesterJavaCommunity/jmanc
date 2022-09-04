@@ -1,4 +1,4 @@
-Following the success of JManc in 2018 & 2019, the Manchester Java Community are delighted to be hosting the third JManc unconference on **Saturday 22nd October 2022**. 
+Following the success of JManc in 2018 & 2019, the Manchester Java Community are delighted to be hosting the third JManc unconference on **Saturday 22nd October 2022**.
 
 The idea is that Java developers of all skill levels will to come together for a full day of discussions, sharing experiences, learning and spending time with our peers in the industry.
 
@@ -40,7 +40,7 @@ i.e. don’t waste time, move around, cross-pollinate groups, and be open to cha
 
 ### Cost
 
-The price of a ticket to JManc 2022 is £20, however all proceeds generated from the tickets will be donated to our nominated charity, which is **<insert_chartity_here>**.
+The price of a ticket to JManc 2022 is £20, however all proceeds generated from the tickets will be donated to our nominated charity, which is the [Jamie Horrocks Trust](https://nspa.org.uk/member/jamie-horrocks-trust/).
 
 You can find more info about how to purchase a ticket [here](tickets.md).
 
@@ -57,6 +57,10 @@ For more information about the location, please see the [contact](contact.md) pa
 Our amazing sponsors, [ECOM Recruitment](http://www.ecomrecruitment.com/), have arranged for us to be provided with lunch as well as refreshments throughout the day.
 
 Please let us know if you have any dietary requirements we need to cater for.
+
+### Evening Social
+
+After the days schedule has concluded our amazing sponsors, [Azul](https://www.azul.com/), have arranged for us to head to a local venue for food, drinks and more Java chat.
 
 ### Sessions
 
