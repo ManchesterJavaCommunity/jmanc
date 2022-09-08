@@ -2,7 +2,7 @@ Following the success of JManc in 2018 & 2019, the Manchester Java Community are
 
 The idea is that Java developers of all skill levels will to come together for a full day of discussions, sharing experiences, learning and spending time with our peers in the industry.
 
-JManc is inspired the [LJC Unconference](http://unconf.londonjavacommunity.co.uk/) and [JCrete®](http://www.jcrete.org/), arguably the best Java unconference in the world.
+JManc is inspired by the [LJC Unconference](http://unconf.londonjavacommunity.co.uk/) and [JCrete®](http://www.jcrete.org/), arguably the best Java unconference in the world.
 
 
 ---
@@ -48,19 +48,19 @@ You can find more info about how to purchase a ticket [here](tickets.md).
 
 This year's event will be held at The Stables @ Bonded Warehouse on Lower Byrom Street next to the Science and Industry Museum, a really unique space in Manchester city centre.
 
-The location is thanks to [ECOM Recruitment](http://www.ecomrecruitment.com/) who have generously offered to cover the cost of the venue for the day.
+The location is thanks to [ECOM Recruitment](http://www.ecomrecruitment.com/) and [Sainsbury's](https://www.sainsburys.co.uk/) who have generously offered to cover the cost of the venue for the day.
 
 For more information about the location, please see the [contact](contact.md) page.
 
 ### Food & Drink
 
-Our amazing sponsors, [ECOM Recruitment](http://www.ecomrecruitment.com/), have arranged for us to be provided with lunch as well as refreshments throughout the day.
+Our amazing sponsors, [ECOM Recruitment](http://www.ecomrecruitment.com/) and [Sainsbury's](https://www.sainsburys.co.uk/), have arranged for us to be provided with lunch as well as refreshments throughout the day.
 
 Please let us know if you have any dietary requirements we need to cater for.
 
 ### Evening Social
 
-After the days schedule has concluded our amazing sponsors, [Azul](https://www.azul.com/), have arranged for us to head to a local venue for food, drinks and more Java chat.
+After the days schedule has concluded our amazing sponsors [Azul](https://www.azul.com/), have arranged for us to head to a local venue for food, drinks and more Java chat.
 
 ### Sessions
 
