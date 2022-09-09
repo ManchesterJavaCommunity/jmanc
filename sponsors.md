@@ -2,20 +2,22 @@
 
 
 <div>
-   <!--<a href="https://digitalblog.coop.co.uk/"><img src="{{ site.baseurl }}/assets/images/coopX2.png" style="width:100px; height:100px" title="Coop Digital" alt="Coop Digital"></a>
-   <br>
-   <br>-->
-   <span>Sponsor of venue:</span>
+   <span>Headline sponsors:</span>
+   <br/><br/>
+   <a href="http://www.ecomrecruitment.com/"><img src="{{ site.baseurl }}/assets/images/ecom_logo.png" class="center" width="65%" title="Headline sponsor: ECOM Recruitment" alt="Headline sponsor: ECOM Recruitment"></a>
    <br/>
-   <a href="http://www.ecomrecruitment.com/"><img src="{{ site.baseurl }}/assets/images/ecom_logo.png" width="75%" title="Sponsor of venue: ECOM Recruitment" alt="Sponsor of venue: ECOM Recruitment"></a>
+   <a href="https://www.sainsburys.co.uk/"><img src="{{ site.baseurl }}/assets/images/sainsburys_logo.jpg" class="center" title="Headline sponsor: Sainsbury's" alt="Headline sponsor: Sainsbury's"></a>
    <br/>
-   <span>Sponsor of venue:</span>
+   <span>Sponsors:</span>
+   <br/><br/>
+   <a href="http://www.azul.com/"><img src="{{ site.baseurl }}/assets/images/azul_logo.svg" class="center" width="50%" title="Sponsor of evening social: Azul" alt="Sponsor of evening social: Azul"></a>
+   <br/><br/>
+   <a href="https://hazelcast.com/"><img src="{{ site.baseurl }}/assets/images/hazelcast_logo.png" class="center" width="75%" title="Sponsor: Hazelcast" alt="Sponsor: Hazelcast"></a>
+   <br/><br/>
+   <a href="https://payara.fish/"><img src="{{ site.baseurl }}/assets/images/payara_logo.png" class="center" title="Sponsor: Payara" alt="Sponsor: Payara"></a>
    <br/>
-   <a href="https://www.sainsburys.co.uk/"><img src="{{ site.baseurl }}/assets/images/sainsburys_logo.jpg" title="Sponsor of venue: Sainsbury's" alt="Sponsor of venue: Sainsbury's"></a>
-   <br />
-   <span>Sponsor of evening social:</span>
+   <a href="https://www.jetbrains.com/"><img src="{{ site.baseurl }}/assets/images/jetbrains_logo.png" class="center" width="50%" title="Sponsor: JetBrains" alt="Sponsor: JetBrains"></a>
    <br/>
-   <a href="http://www.azul.com/"><img src="{{ site.baseurl }}/assets/images/azul_logo.svg" width="75%" title="Sponsor of evening social: Azul" alt="Sponsor of evening social: Azul"></a>
-   <!--<a href="https://www.beyondtrust.com/"><img src="{{ site.baseurl }}/assets/images/BeyondTrust_Horiz_hex-Orange.png" title="Beyond Trust" alt="Beyond Trust"></a>-->
+   <a href="https://foojay.io/"><img src="{{ site.baseurl }}/assets/images/foojay_logo.png" class="center" width="50%" title="Sponsor: Foojay" alt="Sponsor: Foojay"></a>
 </div>
 

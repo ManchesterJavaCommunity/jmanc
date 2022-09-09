@@ -4,6 +4,7 @@ The idea is that Java developers of all skill levels will to come together for a
 
 JManc is inspired by the [LJC Unconference](http://unconf.londonjavacommunity.co.uk/) and [JCrete®](http://www.jcrete.org/), arguably the best Java unconference in the world.
 
+AdThe event is brought to you by the [Manchester Java Community](https://www.meetup.com/manchesteruk-java-community/) in association with [Foojay](https://foojay.io/).
 
 ---
 
