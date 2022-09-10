@@ -1,3 +1,6 @@
+---
+title: Sponsors
+---
 # We'd like to say a huge thanks to our sponsors!
 
 
@@ -10,14 +13,14 @@
    <br/>
    <span>Sponsors:</span>
    <br/><br/>
-   <a href="http://www.azul.com/"><img src="{{ site.baseurl }}/assets/images/azul_logo.svg" class="center" width="50%" title="Sponsor of evening social: Azul" alt="Sponsor of evening social: Azul"></a>
+   <a href="http://www.azul.com/"><img src="{{ site.baseurl }}/assets/images/azul_logo.svg" class="center" width="40%" title="Sponsor of evening social: Azul" alt="Sponsor of evening social: Azul"></a>
    <br/><br/>
-   <a href="https://hazelcast.com/"><img src="{{ site.baseurl }}/assets/images/hazelcast_logo.png" class="center" width="75%" title="Sponsor: Hazelcast" alt="Sponsor: Hazelcast"></a>
+   <a href="https://hazelcast.com/"><img src="{{ site.baseurl }}/assets/images/hazelcast_logo.png" class="center" width="65%" title="Sponsor: Hazelcast" alt="Sponsor: Hazelcast"></a>
    <br/><br/>
    <a href="https://payara.fish/"><img src="{{ site.baseurl }}/assets/images/payara_logo.png" class="center" title="Sponsor: Payara" alt="Sponsor: Payara"></a>
    <br/>
-   <a href="https://www.jetbrains.com/"><img src="{{ site.baseurl }}/assets/images/jetbrains_logo.png" class="center" width="50%" title="Sponsor: JetBrains" alt="Sponsor: JetBrains"></a>
+   <a href="https://www.jetbrains.com/"><img src="{{ site.baseurl }}/assets/images/jetbrains_logo.png" class="center" width="40%" title="Sponsor: JetBrains" alt="Sponsor: JetBrains"></a>
    <br/>
-   <a href="https://foojay.io/"><img src="{{ site.baseurl }}/assets/images/foojay_logo.png" class="center" width="50%" title="Sponsor: Foojay" alt="Sponsor: Foojay"></a>
+   <a href="https://foojay.io/"><img src="{{ site.baseurl }}/assets/images/foojay_logo.png" class="center" width="35%" title="Sponsor: Foojay" alt="Sponsor: Foojay"></a>
 </div>
 
