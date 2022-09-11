@@ -22,5 +22,10 @@ title: Sponsors
    <a href="https://www.jetbrains.com/"><img src="{{ site.baseurl }}/assets/images/jetbrains_logo.png" class="center" width="40%" title="Sponsor: JetBrains" alt="Sponsor: JetBrains"></a>
    <br/>
    <a href="https://foojay.io/"><img src="{{ site.baseurl }}/assets/images/foojay_logo.png" class="center" width="35%" title="Sponsor: Foojay" alt="Sponsor: Foojay"></a>
+   <br/>
+   <a href="https://recworks.co.uk/"><img src="{{ site.baseurl }}/assets/images/recworks_logo.png" class="center" title="Sponsor: Recworks" alt="Sponsor: Recworks"></a>
+   <br/><br/>
+   <a href="https://londonjavacommunity.co.uk/"><img src="{{ site.baseurl }}/assets/images/ljc_logo.png" class="center" title="Sponsor: London Java Community" alt="Sponsor: London Java Community"></a>
+
 </div>
 
