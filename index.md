@@ -43,6 +43,8 @@ i.e. don’t waste time, move around, cross-pollinate groups, and be open to cha
 
 The price of a ticket to JManc 2022 is £20, however all proceeds generated from the tickets will be donated to our nominated charity, which is the [Jamie Horrocks Trust](https://nspa.org.uk/member/jamie-horrocks-trust/).
 
+<a href="https://nspa.org.uk/member/jamie-horrocks-trust/"><img src="{{ site.baseurl }}/assets/images/jht_logo.png" class="center" title="Jamie Horrocks Trust" alt="Jamie Horrocks Trust"></a>
+
 You can find more info about how to purchase a ticket [here](tickets.md).
 
 ### Location

@@ -26,6 +26,8 @@ title: Sponsors
    <a href="https://recworks.co.uk/"><img src="{{ site.baseurl }}/assets/images/recworks_logo.png" class="center" title="Sponsor: Recworks" alt="Sponsor: Recworks"></a>
    <br/><br/>
    <a href="https://londonjavacommunity.co.uk/"><img src="{{ site.baseurl }}/assets/images/ljc_logo.png" class="center" title="Sponsor: London Java Community" alt="Sponsor: London Java Community"></a>
+   <br/>
+   <a href="https://www.sonatype.com/"><img src="{{ site.baseurl }}/assets/images/sonatype_logo.png" class="center" width="50%" title="Sponsor: Sonatype" alt="Sponsor: Sonatype"></a>
 
 </div>
 
