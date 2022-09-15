@@ -63,7 +63,7 @@ Please let us know if you have any dietary requirements we need to cater for.
 
 ### Evening Social
 
-After the days schedule has concluded our amazing sponsors [Azul](https://www.azul.com/), have arranged for us to head to a local venue for food, drinks and more Java chat.
+After the day's schedule has concluded our amazing sponsors, [Azul](https://www.azul.com/) and [Payara](http://payara.fish/), will provide more food & drink allowing us to keep on talking about all things Java.
 
 ### Sessions
 
