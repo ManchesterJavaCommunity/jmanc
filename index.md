@@ -49,7 +49,7 @@ You can find more info about how to purchase a ticket [here](tickets.md).
 
 ### Location
 
-This year's event will be held at The Stables @ Bonded Warehouse on Lower Byrom Street next to the Science and Industry Museum, a really unique space in Manchester city centre.
+This year's event will be held at [The Stables @ Bonded Warehouse](contact.md) on Lower Byrom Street next to the Museum of Science and Industry, a really unique space in Manchester city centre.
 
 The location is thanks to [ECOM Recruitment](http://www.ecomrecruitment.com/) and [Sainsbury's](https://www.sainsburys.co.uk/) who have generously offered to cover the cost of the venue for the day.
 
