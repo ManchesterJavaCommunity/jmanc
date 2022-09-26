@@ -1,6 +1,6 @@
 Following the success of JManc in 2018 & 2019, the Manchester Java Community are delighted to be hosting the third JManc unconference on **Saturday 22nd October 2022**.
 
-The idea is that Java developers of all skill levels will to come together for a full day of discussions, sharing experiences, learning and spending time with our peers in the industry.
+The idea is that Java developers of all skill levels will come together for a full day of discussions, sharing experiences, learning and spending time with our peers in the industry.
 
 JManc is inspired by the [LJC Unconference](http://unconf.londonjavacommunity.co.uk/) and [JCrete®](http://www.jcrete.org/), arguably the best Java unconference in the world.
 
