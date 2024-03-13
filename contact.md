@@ -10,6 +10,6 @@ You can get in touch with us in the following ways:
 
 ## The venue
 
-The Stables @ Bonded Warehouse, Lower Byrom Street, Manchester, M3 4AP
+4th Floor, 1 Tony Wilson Pl, Manchester, M15 4FN
 
 {% include venue-location.html %}
