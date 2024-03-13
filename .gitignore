@@ -1,3 +1,5 @@
 _site
 .jekyll-metadata
 *.lock
+vendor
+.bundle
