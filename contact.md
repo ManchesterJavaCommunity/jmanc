@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-JManc is organised by the team behind the [Manchester Java Community](https://www.meetup.com/ManchesterUK-Java-Community/).
+JManc is organised by the team behind the [Manchester Java Community](https://manchesterjavacommunity.org/).
 
 You can get in touch with us in the following ways:
 
