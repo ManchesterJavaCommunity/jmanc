@@ -2,9 +2,9 @@ Following the success of JManc in 2018 & 2019, the Manchester Java Community are
 
 The idea is that Java developers of all skill levels will come together for a full day of discussions, sharing experiences, learning and spending time with our peers in the industry.
 
-JManc is inspired by the [LJC Unconference](http://unconf.londonjavacommunity.co.uk/) and [JCrete®](http://www.jcrete.org/), arguably the best Java unconference in the world.
+JManc is inspired by the [LJC Unconference](https://www.ljcunconf.co.uk/) and [JCrete®](http://www.jcrete.org/), arguably the best Java unconference in the world.
 
-The event is brought to you by the [Manchester Java Community](https://www.meetup.com/manchesteruk-java-community/) in association with [Auto Trader](https://careers.autotrader.co.uk) and [ECOM](http://www.ecomrecruitment.com/).
+The event is brought to you by the [Manchester Java Community](https://manchesterjavacommunity.org/) in association with [Auto Trader](https://careers.autotrader.co.uk) and [ECOM](http://www.ecomrecruitment.com/).
 
 ---
 
