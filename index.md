@@ -7,6 +7,8 @@ JManc Unconference is part of [The JUnconference Alliance](https://junconf.org).
 
 The event is brought to you by the [Manchester Java Community](https://www.meetup.com/manchesteruk-java-community/) in association with [Auto Trader](https://careers.autotrader.co.uk), [ECOM](http://www.ecomrecruitment.com/) and [JetBrains](https://www.jetbrains.com).
 
+JManc is a member of [The JUnconference Alliance](https://junconf.org).
+
 ---
 
 ## What is an unconference?
