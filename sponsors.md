@@ -5,7 +5,6 @@ title: Sponsors
 # We'd like to say a huge thanks to our sponsors!
 
 <div>
-   <span>Headline sponsors:</span>
    <br/><br/>
    <a href="http://www.ecomrecruitment.com/"><img src="{{ site.baseurl }}/assets/images/ecom_logo.png" class="center" width="65%" title="Sponsor: ECOM Recruitment" alt="Sponsor: ECOM Recruitment"></a>
    <br/>
