@@ -1,11 +1,11 @@
-Following the success of JManc in 2018 & 2019, the Manchester Java Community are delighted to be hosting the third JManc Unconference on **Friday 28th June 2024**.
+Following the success of JManc in 2018, 2019 & 2024, the Manchester Java Community are delighted to be hosting the fourth JManc Unconference in **Friday 13th June 2025**.
 
 The idea is that Java developers of all skill levels will come together for a full day of discussions, sharing experiences, learning and spending time with our peers in the industry.
 
 JManc is inspired by the [LJC Unconference](https://www.ljcunconf.co.uk/) and [JCrete®](http://www.jcrete.org/), arguably the best Java unconference in the world.
 JManc Unconference is a member of [The JUnconference Alliance](https://junconf.org).
 
-The event is brought to you by the [Manchester Java Community](https://www.meetup.com/manchesteruk-java-community/) in association with [Auto Trader](https://careers.autotrader.co.uk), [ECOM](http://www.ecomrecruitment.com/) and [JetBrains](https://www.jetbrains.com).
+The event is brought to you by the [Manchester Java Community](https://www.meetup.com/manchesteruk-java-community/) in association with [Auto Trader](https://careers.autotrader.co.uk) and [ECOM](http://www.ecomrecruitment.com/).
 
 ---
 
@@ -52,7 +52,7 @@ i.e. don’t waste time, move around, cross-pollinate groups, and be open to cha
 ### Cost
 
 We strongly believe in making the Manchester Java Community as open and accessible as possible.
-For this reason, like previous years, JManc 2024 will be a **free** event.
+For this reason, like previous years, JManc 2025 will be a **free** event.
 
 You can find more info about how to register for your free ticket [here](tickets.md).
 
