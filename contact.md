@@ -10,6 +10,6 @@ You can get in touch with us in the following ways:
 
 ## The venue
 
-4th Floor, 1 Tony Wilson Pl, Manchester, M15 4FN
+6th Floor, 1 Tony Wilson Pl, Manchester, M15 4FN
 
 {% include venue-location.html %}
