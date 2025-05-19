@@ -5,7 +5,7 @@ The idea is that Java developers of all skill levels will come together for a fu
 JManc is inspired by the [LJC Unconference](https://www.ljcunconf.co.uk/) and [JCrete®](http://www.jcrete.org/), arguably the best Java unconference in the world.
 JManc Unconference is a member of [The JUnconference Alliance](https://junconf.org).
 
-The event is brought to you by the [Manchester Java Community](https://www.meetup.com/manchesteruk-java-community/) in association with [Auto Trader](https://careers.autotrader.co.uk) and [ECOM](http://www.ecomrecruitment.com/).
+The event is brought to you by the [Manchester Java Community](https://www.meetup.com/manchesteruk-java-community/) in association with [Autotrader](https://careers.autotrader.co.uk) and [ECOM](http://www.ecomrecruitment.com/).
 
 ---
 
@@ -58,14 +58,14 @@ You can find more info about how to register for your free ticket [here](tickets
 
 ### Location
 
-This year's event will be held at [Auto Trader's offices](contact.md) in Manchester city centre.
-Huge thanks to Auto Trader for hosting us once again.
+This year's event will be held at [Autotrader's offices](contact.md) in Manchester city centre.
+Huge thanks to Autotrader for hosting us once again.
 
 For more information about the location, please see the [contact](contact.md) page.
 
 ### Food & Drink
 
-Our amazing hosts, [Auto Trader](https://careers.autotrader.co.uk), will provide lunch as well as refreshments throughout the day.
+Our amazing hosts, [Autotrader](https://careers.autotrader.co.uk), will provide lunch as well as refreshments throughout the day.
 
 Please let us know when registering if you have any specific dietary requirements we need to cater for.
 
