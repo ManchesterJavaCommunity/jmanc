@@ -71,7 +71,7 @@ Please let us know when registering if you have any specific dietary requirement
 
 ### Evening Social
 
-After the day's schedule has concluded we will continue the conversations at [HOME](https://homemcr.org/visit/eat-and-drink/) with food & drink provided by our sponsors [ECOM](http://www.ecomrecruitment.com/).
+After the day's schedule has concluded we will continue the conversations at [The Gas Works Brew Bar](https://gasworksbrewbar.co.uk/) with food & drink provided by our sponsors [ECOM](http://www.ecomrecruitment.com/).
 
 ### Sessions
 
