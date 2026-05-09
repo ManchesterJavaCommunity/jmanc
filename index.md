@@ -43,6 +43,8 @@ This means that some simple rules apply:
    Don’t keep rehashing just because there’s 30 minutes left in the session.
    Do the work, not the time.
 
+<img src="{{ site.baseurl }}/assets/images/marketplace.jpg" class="center" title="Marketplace" alt="Marketplace">
+
 ### The law of two feet
 
 Open Space Technology has only one “law”, **the law of two feet**:
