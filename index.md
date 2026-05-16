@@ -1,4 +1,4 @@
-Following the success of JManc in 2018, 2019, 2024 and 2025 the Manchester Java Community are delighted to be hosting the fifth JManc Unconference on **Friday 10th July 2026**.
+Following the success of JManc in [2018](https://2018.jmanc.org/), [2019](https://2019.jmanc.org/), [2024](https://2024.jmanc.org/) and [2025](https://2025.jmanc.org/) the Manchester Java Community are delighted to be hosting the fifth JManc Unconference on **Friday 10th July 2026**.
 
 The idea is that Java developers of all skill levels will come together for a full day of discussions, sharing experiences, learning and spending time with our peers in the industry.
 
@@ -42,6 +42,8 @@ This means that some simple rules apply:
    …reminds participants that we never know how long it will take to resolve an issue, once raised, but that whenever the issue or work or conversation is finished, move on to the next thing.
    Don’t keep rehashing just because there’s 30 minutes left in the session.
    Do the work, not the time.
+
+<img src="{{ site.baseurl }}/assets/images/marketplace.jpg" class="center" title="Marketplace" alt="Marketplace">
 
 ### The law of two feet
 

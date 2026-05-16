@@ -8,6 +8,8 @@ All attendees, sponsors, partners, volunteers and staff at our event are require
 ---
 Our event is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, religion, previous event attendance or computing experience (or lack of any of the aforementioned). We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate at any event venue, including hacks, talks, workshops, parties, social media and other online media. Event participants violating these rules may be sanctioned or expelled from the event without a refund (if applicable) at the discretion of the event organisers.
 
+<img src="{{ site.baseurl }}/assets/images/session2.jpg" class="center" title="Session" alt="Session">
+
 ## The Less Quick Version
 ---
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, religion, sexual images in public spaces, deliberate intimidation, stalking, following, photography or audio/video recording against reasonable consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
