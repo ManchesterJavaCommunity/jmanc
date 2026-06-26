@@ -79,7 +79,7 @@ Please let us know when registering if you have any specific dietary requirement
 
 ### Evening Social
 
-After the day's schedule has concluded we will continue the conversations at a local public house with food & drink provided by our sponsors [Morson Edge](https://morson-edge.com/).
+After the day's schedule has concluded we will continue the conversations at [North Bar](https://northbar.com/circle-square) with food & drink provided by our sponsors [Morson Edge](https://morson-edge.com/).
 
 ### Sessions
 
